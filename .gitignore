@@ -1,2 +1,6 @@
 .venv/
 __pycache__/
+streamlit.log
+cloudflared.log
+cloudflared-linux-*
+.ipynb_checkpoints/
